@@ -62,7 +62,7 @@ function Nav() {
           </a>
         </li>
         <li className="nav-item">
-          <Link to="/autoprofito_frontend/subscription" className="footer-link nav-link fw-medium">Pricing</Link>
+          <Link to="/autoprofito_frontend_santosh/subscription" className="footer-link nav-link fw-medium">Pricing</Link>
         </li>
         <li className="nav-item">
           <a

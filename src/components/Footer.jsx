@@ -37,10 +37,10 @@ function Footer() {
                             <a href="/signup" className="footer-link">Signup</a>
                         </li>
                         <li className="mb-4">
-                            <Link to="/autoprofito_frontend/faq" className="footer-link">FAQ</Link>
+                            <Link to="/autoprofito_frontend_santosh/faq" className="footer-link">FAQ</Link>
                         </li>
                         <li className="mb-4">
-                        <Link to="/autoprofito_frontend/subscription" className="footer-link ">Pricing</Link>
+                        <Link to="/autoprofito_frontend_santosh/subscription" className="footer-link ">Pricing</Link>
                         </li>
                     </ul>
                 </div>
@@ -51,7 +51,7 @@ function Footer() {
                             <a href="/landing_privacy_policy" className="footer-link">Privacy Policy</a>
                         </li>
                         <li className="mb-4">
-                            <Link to="/autoprofito_frontend/cookies" className="footer-link">Cookies Policy</Link>
+                            <Link to="/autoprofito_frontend_santosh/cookies" className="footer-link">Cookies Policy</Link>
                         </li>
                         <li className="mb-4">
                             <a href="/landing_cancellation_policy" className="footer-link">Cancellation Policy</a>
@@ -60,7 +60,7 @@ function Footer() {
                             <a href="/landing_refund" className="footer-link">Refund Policy</a>
                         </li>
                         <li>
-                            <Link to="/autoprofito_frontend/termsAndconditions" className="footer-link">Terms and Condition</Link>
+                            <Link to="/autoprofito_frontend_santosh/termsAndconditions" className="footer-link">Terms and Condition</Link>
                         </li>
                     </ul>
                 </div>

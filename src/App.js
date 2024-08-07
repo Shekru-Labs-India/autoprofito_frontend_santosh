@@ -16,14 +16,14 @@ function App() {
   return (
     <>
      <div className="App">
-      <BrowserRouter basename="/autoprofito_frontend">
+      <BrowserRouter basename="/autoprofito_frontend_santosh">
       <ScrollToTop>
         <Routes>
          <Route path="/" element={<About />}/>
-          <Route path="/autoprofito_frontend/cookies" element={<CookiePolicy />} />          
-          <Route path="/autoprofito_frontend/faq" element={<FAQsDetails />} />         
-          <Route path="/autoprofito_frontend/termsAndconditions" element={<TermsAndConditions />} />
-          <Route path="/autoprofito_frontend/subscription" element={<Pricing />} />
+          <Route path="/autoprofito_frontend_santosh/cookies" element={<CookiePolicy />} />          
+          <Route path="/autoprofito_frontend_santosh/faq" element={<FAQsDetails />} />         
+          <Route path="/autoprofito_frontend_santosh/termsAndconditions" element={<TermsAndConditions />} />
+          <Route path="/autoprofito_frontend_santosh/subscription" element={<Pricing />} />
           
         </Routes>
         </ScrollToTop>

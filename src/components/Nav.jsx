@@ -53,24 +53,25 @@ function Nav() {
       </button>
       <ul className="navbar-nav me-auto p-10 p-lg-0">
         <li className="nav-item">
-          <a
+          < Link
             className="nav-link fw-medium"
             aria-current="page"
-            href="#"
+            to="/autoprofito_frontend_santosh/NotFoundPage"
           >
             Home
-          </a>
+          </Link>
         </li>
         <li className="nav-item">
           <Link to="/autoprofito_frontend_santosh/subscription" className="footer-link nav-link fw-medium">Pricing</Link>
         </li>
         <li className="nav-item">
-          <a
+        < Link
             className="nav-link fw-medium"
-            href="#"
+            aria-current="page"
+            to="/autoprofito_frontend_santosh/NotFoundPage"
           >
             Contact
-          </a>
+            </Link>
         </li>
         <li className="nav-item">
           <Link to="/" className="footer-link nav-link fw-medium">About</Link>

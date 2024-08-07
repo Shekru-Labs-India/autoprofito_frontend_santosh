@@ -28,7 +28,7 @@ function Footer() {
                     <h6 className="footer-title mb-4 mb-lg-6">Pages</h6>
                     <ul className="list-unstyled mb-0">
                         <li className="mb-4">
-                            <a href="#" className="footer-link">Home</a>
+                            <Link to="/autoprofito_frontend_santosh/NotFoundPage" className="footer-link">Home</Link>
                         </li>
                         <li className="mb-4">
                             <a href="/commonlogin" className="footer-link">Login</a>
@@ -48,16 +48,16 @@ function Footer() {
                     <h6 className="footer-title mb-4 mb-lg-6">Important</h6>
                     <ul className="list-unstyled mb-0">
                         <li className="mb-4">
-                            <a href="/landing_privacy_policy" className="footer-link">Privacy Policy</a>
+                            <Link to="/autoprofito_frontend_santosh/NotFoundPage" className="footer-link">Privacy Policy</Link>
                         </li>
                         <li className="mb-4">
                             <Link to="/autoprofito_frontend_santosh/cookies" className="footer-link">Cookies Policy</Link>
                         </li>
                         <li className="mb-4">
-                            <a href="/landing_cancellation_policy" className="footer-link">Cancellation Policy</a>
+                            <Link to="/autoprofito_frontend_santosh/NotFoundPage" className="footer-link">Cancellation Policy</Link>
                         </li>
                         <li className="mb-4">
-                            <a href="/landing_refund" className="footer-link">Refund Policy</a>
+                            <Link to="/autoprofito_frontend_santosh/NotFoundPage" className="footer-link">Refund Policy</Link>
                         </li>
                         <li>
                             <Link to="/autoprofito_frontend_santosh/termsAndconditions" className="footer-link">Terms and Condition</Link>

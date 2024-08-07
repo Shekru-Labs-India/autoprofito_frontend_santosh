@@ -7,6 +7,8 @@ import About from './components/About'
 import CookiePolicy from './components/CookiePolicy'
 import TermsAndConditions from './components/TermsAndConditions'
 import useScrollToTop from './useScrollToTop';
+import NotFoundPage from './components/NotFoundPage';
+
 
 
 
@@ -24,6 +26,7 @@ function App() {
           <Route path="/autoprofito_frontend_santosh/faq" element={<FAQsDetails />} />         
           <Route path="/autoprofito_frontend_santosh/termsAndconditions" element={<TermsAndConditions />} />
           <Route path="/autoprofito_frontend_santosh/subscription" element={<Pricing />} />
+          <Route path="/autoprofito_frontend_santosh/NotFoundPage" element={<NotFoundPage />} />
           
         </Routes>
         </ScrollToTop>

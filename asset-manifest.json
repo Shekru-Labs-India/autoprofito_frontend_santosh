@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/autoprofito_frontend_santosh/static/css/main.9d02c45e.css",
-    "main.js": "/autoprofito_frontend_santosh/static/js/main.0037f12e.js",
+    "main.js": "/autoprofito_frontend_santosh/static/js/main.21559d1f.js",
     "static/js/453.815728ae.chunk.js": "/autoprofito_frontend_santosh/static/js/453.815728ae.chunk.js",
     "static/media/footer-bg.png": "/autoprofito_frontend_santosh/static/media/footer-bg.feaca3084f61d1772c13.png",
     "static/media/primeicons.svg": "/autoprofito_frontend_santosh/static/media/primeicons.6ed59f962963a4a73af2.svg",
@@ -15,11 +15,11 @@
     "static/media/tree.png": "/autoprofito_frontend_santosh/static/media/tree.934a7aebdc9320ac6aa9.png",
     "index.html": "/autoprofito_frontend_santosh/index.html",
     "main.9d02c45e.css.map": "/autoprofito_frontend_santosh/static/css/main.9d02c45e.css.map",
-    "main.0037f12e.js.map": "/autoprofito_frontend_santosh/static/js/main.0037f12e.js.map",
+    "main.21559d1f.js.map": "/autoprofito_frontend_santosh/static/js/main.21559d1f.js.map",
     "453.815728ae.chunk.js.map": "/autoprofito_frontend_santosh/static/js/453.815728ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d02c45e.css",
-    "static/js/main.0037f12e.js"
+    "static/js/main.21559d1f.js"
   ]
 }

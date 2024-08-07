@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/autoprofito_frontend/static/css/main.b064967e.css",
+    "main.js": "/autoprofito_frontend/static/js/main.22c44432.js",
+    "static/js/453.815728ae.chunk.js": "/autoprofito_frontend/static/js/453.815728ae.chunk.js",
+    "static/media/footer-bg.png": "/autoprofito_frontend/static/media/footer-bg.feaca3084f61d1772c13.png",
+    "static/media/primeicons.svg": "/autoprofito_frontend/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/logo (2) (1).png": "/autoprofito_frontend/static/media/logo (2) (1).50ae38f4a0332ae3a013.png",
+    "static/media/illustration-john.png": "/autoprofito_frontend/static/media/illustration-john.bdd1a3b26c1c03d28f4d.png",
+    "static/media/primeicons.eot": "/autoprofito_frontend/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/autoprofito_frontend/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/autoprofito_frontend/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/autoprofito_frontend/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/autoprofito_frontend/index.html",
+    "main.b064967e.css.map": "/autoprofito_frontend/static/css/main.b064967e.css.map",
+    "main.22c44432.js.map": "/autoprofito_frontend/static/js/main.22c44432.js.map",
+    "453.815728ae.chunk.js.map": "/autoprofito_frontend/static/js/453.815728ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b064967e.css",
+    "static/js/main.22c44432.js"
+  ]
+}

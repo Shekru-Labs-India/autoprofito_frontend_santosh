@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/autoprofito_frontend_santosh/static/css/main.9d02c45e.css",
-    "main.js": "/autoprofito_frontend_santosh/static/js/main.41dc49f5.js",
+    "main.js": "/autoprofito_frontend_santosh/static/js/main.ec7a63f9.js",
     "static/js/453.815728ae.chunk.js": "/autoprofito_frontend_santosh/static/js/453.815728ae.chunk.js",
     "static/media/footer-bg.png": "/autoprofito_frontend_santosh/static/media/footer-bg.feaca3084f61d1772c13.png",
     "static/media/primeicons.svg": "/autoprofito_frontend_santosh/static/media/primeicons.6ed59f962963a4a73af2.svg",
@@ -12,14 +12,15 @@
     "static/media/primeicons.ttf": "/autoprofito_frontend_santosh/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/404.png": "/autoprofito_frontend_santosh/static/media/404.6ef60072958b76936b8a.png",
     "static/media/primeicons.woff2": "/autoprofito_frontend_santosh/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "static/media/2.png": "/autoprofito_frontend_santosh/static/media/2.d3c64685c1df07b335a7.png",
     "static/media/tree.png": "/autoprofito_frontend_santosh/static/media/tree.934a7aebdc9320ac6aa9.png",
     "index.html": "/autoprofito_frontend_santosh/index.html",
     "main.9d02c45e.css.map": "/autoprofito_frontend_santosh/static/css/main.9d02c45e.css.map",
-    "main.41dc49f5.js.map": "/autoprofito_frontend_santosh/static/js/main.41dc49f5.js.map",
+    "main.ec7a63f9.js.map": "/autoprofito_frontend_santosh/static/js/main.ec7a63f9.js.map",
     "453.815728ae.chunk.js.map": "/autoprofito_frontend_santosh/static/js/453.815728ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d02c45e.css",
-    "static/js/main.41dc49f5.js"
+    "static/js/main.ec7a63f9.js"
   ]
 }
